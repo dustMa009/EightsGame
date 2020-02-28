@@ -6,3 +6,6 @@ punishment scores for each card:
 A-7 -1 ~ -7
 8-10 -8 ~ -10
 J,Q,K  -10
+
+# How to run
+put all code in a project, compile and run Eights.java
